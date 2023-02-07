@@ -24,5 +24,5 @@
 ## Socials:
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/@glados070)
 [![VK](https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk)](https://vk.com/@glados070)
-[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](danil12518@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:danil12518@gmail.com)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100041061547364)
