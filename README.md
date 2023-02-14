@@ -34,6 +34,6 @@
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100041061547364)
 
 ## My projects:
-### [**💾Личные проекты**](https://github.com/GLaDOS070/personal_projects)
-### [**📚Учебные проекты**](https://github.com/GLaDOS070/educational_projects)
+### [**💾Personal projects**](https://github.com/GLaDOS070/personal_projects)
+### [**📚Educational projects**](https://github.com/GLaDOS070/educational_projects)
 
