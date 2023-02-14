@@ -2,7 +2,7 @@
 
 - 😎 Junior Data Analyst
 - 💻 I like to dig into the data, as well as automate reports
-- ⛏️ I also like to do data mining
+- ⛏️ I also like to do data mining (web scraping)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -32,7 +32,3 @@
 [![VK](https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk)](https://vk.com/merinov_danila)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:danil12518@gmail.com)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100041061547364)
-
-## My projects:
-### [**Личные проекты**](https://github.com/GLaDOS070/personal_projects)
-### [**Учебные проекты**](https://github.com/GLaDOS070/educational_projects)
