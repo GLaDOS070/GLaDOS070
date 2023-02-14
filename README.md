@@ -2,7 +2,7 @@
 
 - 😎 Junior Data Analyst
 - 💻 I like to dig into the data, as well as automate reports
-- ⛏️ I also like to do data mining
+- ⛏️ I also like to do data mining (web scraping)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -36,3 +36,4 @@
 ## My projects:
 ### [**💾Личные проекты**](https://github.com/GLaDOS070/personal_projects)
 ### [**📚Учебные проекты**](https://github.com/GLaDOS070/educational_projects)
+
